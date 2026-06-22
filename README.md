@@ -16,4 +16,4 @@ Este proyecto es una aplicación de consola (CLI) desarrollada en Node.js para l
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <aquí-va-a-ir-el-link-de-tu-github>
+git clone <https://github.com/Juan-Jose-Vega/TP_node>
